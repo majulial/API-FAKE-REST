@@ -1,0 +1,90 @@
+{
+  "Clientes": [
+    {
+      "id": 1,
+      "nome": "Carlos José",
+      "idade": 46,
+      "entrada": "14:00",
+      "carroId": 1
+    },
+    {
+      "nome": "Mônica Alves",
+      "idade": 30,
+      "entrada": "14:45",
+      "id": 2,
+      "carroId": 3
+    },
+    {
+      "nome": "Megan Fox",
+      "idade": 35,
+      "entrada": "16:00",
+      "id": 3,
+      "carroId": 2
+    },
+    {
+      "nome": "Italo Mendes",
+      "idade": 26,
+      "entrada": "12:00",
+      "id": 4,
+      "carroId": 3
+    },
+    {
+      "nome": "Maria Mendes",
+      "idade": 20,
+      "entrada": "11:00",
+      "id": 5,
+      "carroId": 4
+    },
+    {
+      "nome": "Maria Lurdes",
+      "idade": 25,
+      "entrada": "11:30",
+      "id": 6,
+      "carroId": 4
+    }
+  ],
+  "Carro": [
+    {
+      "id": 1,
+      "modelo": "Renault Logan"
+    },
+    {
+      "id": 2,
+      "modelo": "Volkswagen Voyage"
+    },
+    {
+      "id": 3,
+      "modelo": "Fiat Siena"
+    },
+    {
+      "id": 4,
+      "modelo": "Hyundai Creta"
+    }
+  ],
+  "Vagas": [
+    {
+      "id": 1,
+      "Registro": 1001
+    },
+    {
+      "id": 2,
+      "Registro": 1002
+    },
+    {
+      "id": 3,
+      "Registro": 1003
+    },
+    {
+      "id": 4,
+      "Registro": 1004
+    },
+    {
+      "id": 5,
+      "Registro": 1005
+    },
+    {
+      "id": 6,
+      "Registro": 1006
+    }
+  ]
+}
